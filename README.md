@@ -27,14 +27,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![pholiveira-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dracula&count_private=true)
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dracula"/>
 </div>
-
----
-
-### 🧠 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dracula)
 
 ### 📫 Como falar comigo:
 
