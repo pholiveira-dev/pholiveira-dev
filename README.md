@@ -32,6 +32,16 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ---
 
+### Desafios de Código
+
+🧠 Meu campo de treino para aprimorar lógica e algoritmos:
+
+- **CodeWars Solutions**: [pholiveira-dev/code-wars](https://github.com/pholiveira-dev/code-wars)
+  * Coleção de soluções para desafios de programação em JavaScript.
+  * Foco em otimização de algoritmos e diferentes abordagens para problemas complexos.
+
+---
+
 ### GitHub Stats
 
 <div align="left" align="center">
