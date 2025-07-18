@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
 
-<p align="left">
+<p align="justify">
   Desenvolvedor em formação, com background em Enfermagem e paixão por resolver problemas através da tecnologia.<br>
   Atualmente focado no desenvolvimento <strong>Back-end</strong> com <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>.<br>
   Buscando oportunidades para aplicar e expandir minhas habilidades em projetos reais.<br>
@@ -20,7 +20,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql" />
   </a>
