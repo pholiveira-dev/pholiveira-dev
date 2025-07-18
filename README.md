@@ -6,6 +6,8 @@
 
 ---
 
+http://googleusercontent.com/image_generation_content/0
+
 ### Sobre mim
 
 Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como **senso de responsabilidade**, **comunicação clara** e **empatia**, qualidades que agora aplico com excelência na área de tecnologia.
@@ -16,9 +18,9 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ### Tecnologias & Ferramentas
 
-<p>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode,postman" />
   </a>
 </p>
 
@@ -57,5 +59,10 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ---
 
-🚀 Pronto para inovar e construir soluções. Conecte-se e vamos criar algo incrível!
+<p align="center">
+  Feito com ❤️ por Pedro Henrique | 2025
+</p>
 
+---
+
+🚀 Pronto para inovar e construir soluções. Conecte-se e vamos criar algo incrível!
