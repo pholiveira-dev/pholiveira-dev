@@ -22,7 +22,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql" />
+    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql" />
   </a>
 </p>
 
