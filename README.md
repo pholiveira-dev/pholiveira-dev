@@ -1,9 +1,9 @@
-<h1 align="center">Olá! Eu sou o Pedro Henrique 👋</h1>
+<h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
 
 <p align="center">
-  💻 Enfermeiro em transição de carreira para <strong>Desenvolvedor Back-end</strong><br>
-  🩺 Preceptor de Enfermagem & apaixonado por tecnologia<br>
-  📚 Estudando <strong>JavaScript</strong>, <strong>Node.js</strong><br> e <strong>Django</strong>.
+  Desenvolvedor em formação, com background em Enfermagem e paixão por resolver problemas através da tecnologia.<br>
+  Atualmente focado no desenvolvimento <strong>Back-end</strong> com <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>.<br>
+  Buscando oportunidades para aplicar e expandir minhas habilidades em projetos reais.<br>
 </p>
 
 ---
