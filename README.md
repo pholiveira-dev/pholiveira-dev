@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
 
-<p align="center">
+<p align="left">
   Desenvolvedor em formação, com background em Enfermagem e paixão por resolver problemas através da tecnologia.<br>
   Atualmente focado no desenvolvimento <strong>Back-end</strong> com <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>.<br>
   Buscando oportunidades para aplicar e expandir minhas habilidades em projetos reais.<br>
@@ -8,9 +8,23 @@
 
 ---
 
+### 👨‍🏫 Sobre mim
+
+Sou formado em Enfermagem e atuo na área da saúde há alguns anos, inclusive com experiência como preceptor e orientador de estudantes. Essa vivência me trouxe senso de responsabilidade, comunicação clara e empatia — qualidades que carrego agora na minha transição para a área de tecnologia.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho dedicado meu tempo livre ao estudo de **desenvolvimento back-end**, com foco em Python/Django, Node.js e boas práticas de código. Estou construindo projetos próprios para praticar e me desenvolver como profissional de tecnologia.
+
+Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja ao aprender uma nova stack, construir uma API ou resolver um bug teimoso.
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql" />
+  </a>
+</p>
 
 ---
 
