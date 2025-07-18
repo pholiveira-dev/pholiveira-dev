@@ -1,7 +1,7 @@
-<h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
+<h1 align="left">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
 <p align="justify">
-  Desenvolvedor em transição de carreira, com experiência em Enfermagem e uma paixão por criar soluções tecnológicas impactantes. Atualmente, meu foco é o desenvolvimento <strong>Back-end</strong>, dominando <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>. Estou ativamente buscando oportunidades onde possa aplicar e aprimorar minhas habilidades em desafios reais.
+  Olá! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto.
 </p>
 
 ---
@@ -18,7 +18,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode,postman" />
+    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode,postman"/>
   </a>
 </p>
 
