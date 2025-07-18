@@ -42,10 +42,11 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 <div align="center">
   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dark&bg_color=000000&title_color=66ff66&text_color=66ff66&icon_color=66ff66"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dark&bg_color=000000&title_color=66ff66&text_color=66ff66&icon_color=66ff66"/>
+  </div>
 </div>
+
 ---
 
 ### 📫 Como falar comigo:
