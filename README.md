@@ -43,7 +43,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 <div align="center">
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=transparent&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=transparent&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00"/>
 
 </div>
 ---
