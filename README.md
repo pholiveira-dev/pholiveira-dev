@@ -49,10 +49,18 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
   
 ### 📫 Como falar comigo:
 
-<div align="left">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-037826186/)
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.alves@escs.edu.br)
-</div>
+### 📫 Como falar comigo:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-037826186/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:pedro.alves@escs.edu.br">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
+
 
 ---
 
