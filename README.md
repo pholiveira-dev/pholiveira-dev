@@ -1,20 +1,16 @@
 <h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
 
 <p align="justify">
-  Desenvolvedor em formação, com background em Enfermagem e paixão por resolver problemas através da tecnologia.<br>
-  Atualmente focado no desenvolvimento <strong>Back-end</strong> com <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>.<br>
-  Buscando oportunidades para aplicar e expandir minhas habilidades em projetos reais.<br>
+  Desenvolvedor em transição de carreira, com experiência em Enfermagem e uma paixão por criar soluções tecnológicas impactantes. Atualmente, meu foco é o desenvolvimento <strong>Back-end</strong>, dominando <strong>JavaScript (Node.js)</strong> e <strong>Python (Django)</strong>. Estou ativamente buscando oportunidades onde possa aplicar e aprimorar minhas habilidades em desafios reais.
 </p>
 
 ---
 
 ### Sobre mim
 
-Sou formado em Enfermagem e atuo na área da saúde há alguns anos, inclusive com experiência como preceptor e orientador de estudantes. Essa vivência me trouxe senso de responsabilidade, comunicação clara e empatia — qualidades que carrego agora na minha transição para a área de tecnologia.
+Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como **senso de responsabilidade**, **comunicação clara** e **empatia**, qualidades que agora aplico com excelência na área de tecnologia.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e tenho dedicado meu tempo livre ao estudo de **desenvolvimento back-end**, com foco em Python/Django, Node.js e boas práticas de código. Estou construindo projetos próprios para praticar e me desenvolver como profissional de tecnologia.
-
-Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja ao aprender uma nova stack, construir uma API ou resolver um bug teimoso.
+Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao aprofundamento em **desenvolvimento back-end**, com ênfase em Python/Django, Node.js e **boas práticas de código**. Sou um **aprendiz contínuo** e **autodidata**, motivado a entender o "porquê" de cada tecnologia e solução.
 
 ---
 
@@ -22,7 +18,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql" />
+    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode,postman" />
   </a>
 </p>
 
@@ -30,11 +26,9 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ### Projetos em destaque
 
-- 🎁 [Loja de Presentes (Django)](https://github.com/pholiveira-dev/balloon)  
-  Aplicação completa com categorias, produtos, pedidos e painel administrativo.
+- 🎁 **Loja de Presentes (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo. [Ver projeto](https://github.com/pholiveira-dev/balloon)
 
-- 🍽️ [Site de Receitas (Django)](https://github.com/pholiveira-dev/projeto-recipe)  
-  Projeto para praticar front-end e criação simples de um CRUD.
+- 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão). [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
 
 ---
 
@@ -61,8 +55,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
   </a>
 </p>
 
-
 ---
 
-🧠 Em constante aprendizado, unindo a disciplina da enfermagem com a lógica da programação. Vamos construir soluções que importam!
+🚀 Pronto para inovar e construir soluções. Conecte-se e vamos criar algo incrível!
 
