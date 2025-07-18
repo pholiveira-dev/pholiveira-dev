@@ -48,7 +48,8 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ### 📫 Como falar comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-037826186/) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.alves@escs.edu.br)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-037826186/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.alves@escs.edu.br)
 
 ---
 
