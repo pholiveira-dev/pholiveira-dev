@@ -45,11 +45,14 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dracula"/>
 </div>
-
+---
+  
 ### 📫 Como falar comigo:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-037826186/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.alves@escs.edu.br)
+<div align="left">
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-037826186/)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedro.alves@escs.edu.br)
+</div>
 
 ---
 
