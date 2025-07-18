@@ -18,7 +18,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 <p>
   <a href="https://skillicons.dev">
-    <img align="left" src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
   </a>
 </p>
 
