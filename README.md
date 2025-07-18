@@ -1,50 +1,22 @@
-<h1 align="center">Olá! Eu sou o Pedro Henrique 👋</h1>
+# Olá! Eu sou o Pedro Henrique
+### 💻 Enfermeiro em transição de carreira para Desenvolvedor Back-end 🩺 Preceptor de Enfermagem &amp; apaixonado por tecnologia 📚 Estudando JavaScript, Node.js e Django.
 
-<p align="center">
-  💻 Enfermeiro em transição de carreira para <strong>Desenvolvedor Back-end</strong><br>
-  🩺 Preceptor de Enfermagem & apaixonado por tecnologia<br>
-  📚 Estudando <strong>JavaScript</strong>, <strong>Node.js</strong><br> e <strong>Django</strong>.
-</p>
+- 🎁 Loja de Presentes (Django) [🎁 Loja de Presentes (Django)](https://github.com/pholiveira-dev/balloon)
+- 🍽️ Site de Receitas 
+- 🤝 I’m looking for help with 
+- 🌱 I’m currently learning 
+-  
+- 📫 Como entrar em contato [pedro.alves@escs.edu.br]()
+-  
+-  
+-  
+-  
 
----
+### Connect with me:
+<p align="left">
+<a href="https://github.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="30" width="40"/></a> <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" alt="Dev.to" height="30" width="40"/></a> <a href="https://codesandbox.io/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="CodeSandbox" height="30" width="40"/></a> <a href="https://in.linkedin.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40"/></a> <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" height="30" width="40"/></a> <a href="https://dribbble.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/408/408743.png" alt="Dribbble" height="30" width="40"/></a> <a href="https://hashnode.com/" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/cib-hashnode.png" alt="Hashnode" height="30" width="40"/></a> <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" height="30" width="40"/></a> <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3628233-3031053.png" alt="Hackerrank" height="30" width="40"/></a> <a href="https://leetcode.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="Leetcode" height="30" width="40"/></a> <a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/hackerearth-icon-444x512-0heomwse.png" alt="HackerEarth" height="30" width="40"/></a> <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord" height="30" width="40"/></a> <a href="https://twitter.com/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/515/1/png-transparent-twitter-logo-computer-icons-logo-twitter-icon-computer-wallpaper-monochrome-bird-thumbnail.png" alt="Twitter" height="30" width="40"/></a> <a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1906/PNG/512/iconfinder-codepen-4550862_121336.png" alt="Codepen" height="30" width="40"/></a> <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111690.png" alt="StackOverflow" height="30" width="40"/></a> <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram" height="30" width="40"/></a> <a href="https://www.kaggle.com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3628281-3031974.png" alt="Kaggle" height="30" width="40"/></a> <a href="https://www.behance.net/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733594.png" alt="Behance" height="30" width="40"/></a> <a href="https://medium.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="Medium" height="30" width="40"/></a> <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="Codechef" height="30" width="40"/></a> <a href="https://codeforces.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" alt="Codeforces" height="30" width="40"/></a> <a href="https://www.topcoder.com/72318-023" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/topcoder-512.png" alt="Topcoder" height="30" width="40"/></a> <a href="https://www.geeksforgeeks.org/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/geeksforgeeks-icon-512x264-y71dixbv.png" alt="GeeksforGeeks" height="30" width="40"/></a> <a href="https://rss.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Reddit" height="30" width="40"/></a> </p>
 
-### 🛠️ Tecnologias & Ferramentas
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
----
-
-### 🚀 Projetos em destaque
-
-- 🎁 [Loja de Presentes (Django)](https://github.com/seu-usuario/loja-presentes)  
-  Aplicação completa com categorias, produtos, pedidos e painel administrativo.
-
-- 📊 [Site de Receitas](https://github.com/pholiveira-dev/projeto-recipe)  
-  Projeto para praticar front-end e criação simples de um CRUD.
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula"/>
-</div>
-
----
-
-### 📫 Como falar comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-037826186/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.alves@escs.edu.br)
-
----
-
-🧠 Em constante aprendizado, unindo a disciplina da enfermagem com a lógica da programação. Vamos construir soluções que importam!
+### Languages and Tools:
+<p align="left">
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Node.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/MySQL" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Django_(web_framework)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" height="40" width="40"/></a> <a href="https://en.wikipedia.org/wiki/Git" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40"/></a> </p>
 
