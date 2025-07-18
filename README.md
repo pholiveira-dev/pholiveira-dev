@@ -46,12 +46,10 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dracula"/>
 </div>
 ---
-  
-### 📫 Como falar comigo:
 
 ### 📫 Como falar comigo:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/pedro-henrique-037826186/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
