@@ -55,16 +55,22 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ### Como falar comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-037826186/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<hr/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDAF&center=true&vCenter=true&width=500&lines=🚀+Pronto+para+inovar+e+construir+soluções!;💡+Conecte-se+e+vamos+criar+algo+incrível!" alt="Typing SVG" />
+  
+  <br/>
+
+  <a href="https://www.linkedin.com/in/pedro-henrique-037826186" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:pedro.alves@escs.edu.br">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/E-mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
 
----
+  <br/><br/>
 
-🚀 Pronto para inovar e construir soluções. Conecte-se e vamos criar algo incrível!
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120" alt="Rocket Gif"/>
+</div>
+
