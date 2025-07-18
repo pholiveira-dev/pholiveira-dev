@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍🏫 Sobre mim
+### Sobre mim
 
 Sou formado em Enfermagem e atuo na área da saúde há alguns anos, inclusive com experiência como preceptor e orientador de estudantes. Essa vivência me trouxe senso de responsabilidade, comunicação clara e empatia — qualidades que carrego agora na minha transição para a área de tecnologia.
 
@@ -18,7 +18,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 - 🎁 [Loja de Presentes (Django)](https://github.com/pholiveira-dev/balloon)  
   Aplicação completa com categorias, produtos, pedidos e painel administrativo.
@@ -38,7 +38,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="left" align="center">
   <div align="center">
@@ -49,7 +49,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ---
 
-### 📫 Como falar comigo:
+### Como falar comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-037826186/" target="_blank">
