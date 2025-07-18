@@ -49,7 +49,7 @@ Sou curioso, autodidata, e gosto de entender o “porquê” das coisas — seja
 
 ### 📫 Como falar comigo:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-037826186/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
