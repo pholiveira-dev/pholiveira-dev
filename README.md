@@ -1,54 +1,44 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/pholiveira-dev/pholiveira-dev/main/assets/sith-lord-pedro.png" alt="Darth Vader e Pedro Henrique" width="100"/>
-  <br>
-  <span style="color: #FFE81F;">Pedro Henrique</span> | Desenvolvedor Back-end
-</h1>
+<h1 align="left">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
-<p align="justify" style="color: #C0C0C0;">
-  Olá, jovem Padawan! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto, sempre buscando o equilíbrio na Força do desenvolvimento.
+<p align="justify">
+  Olá! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto.
 </p>
 
 ---
 
-### <span style="color: #00BFFF;">Sobre mim</span>
+### Sobre mim
 
-<p align="justify" style="color: #C0C0C0;">
-  Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como <strong>senso de responsabilidade</strong>, <strong>comunicação clara</strong> e <strong>empatia</strong>, qualidades que agora aplico com excelência na área de tecnologia. Assim como um Jedi que domina diversas técnicas, busco a maestria em cada linha de código.
-</p>
+Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como **senso de responsabilidade**, **comunicação clara** e **empatia**, qualidades que agora aplico com excelência na área de tecnologia.
 
-<p align="justify" style="color: #C0C0C0;">
-  Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e dedico meu tempo ao aprofundamento em <strong>desenvolvimento back-end</strong>, com ênfase em Python/Django, Node.js e <strong>boas práticas de código</strong>. Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motivado a entender o "porquê" de cada tecnologia e solução, como um mestre Jedi desvendando os mistérios da Força.
-</p>
+Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao aprofundamento em **desenvolvimento back-end**, com ênfase em Python/Django, Node.js e **boas práticas de código**. Sou um **aprendiz contínuo** e **autodidata**, motivado a entender o "porquê" de cada tecnologia e solução.
 
 ---
 
-### <span style="color: #33FF33;">Tecnologias & Ferramentas</span>
+### Tecnologias & Ferramentas
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode&theme=dark" alt="Tecnologias e Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
   </a>
 </p>
 
 ---
 
-### <span style="color: #FF6600;">Projetos em destaque</span>
+### Projetos em destaque
 
-- 🎁 <strong style="color: #FFD700;">Loja de Presentes (Django)</strong>: Aplicação <strong>full-stack</strong> com funcionalidades de categorias, produtos, pedidos e painel administrativo. [Ver projeto](https://github.com/pholiveira-dev/balloon)
+- 🎁 **Loja de Presentes (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo. [Ver projeto](https://github.com/pholiveira-dev/balloon)
 
-- 🍽️ <strong style="color: #FFD700;">Site de Receitas (Django)</strong>: Projeto focado na prática de <strong>front-end</strong> e implementação de <strong>operações CRUD</strong> (Criação, Leitura, Atualização e Exclusão). [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
+- 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão). [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
 
 ---
 
-### <span style="color: #9933FF;">Desafios de Código</span>
+### Desafios de Código
 
-<p style="color: #C0C0C0;">
-  🧠 Meu campo de treino para aprimorar lógica e algoritmos, como um duelo de sabres de luz para a mente:
-</p>
+🧠 Meu campo de treino para aprimorar lógica e algoritmos:
 
-- <strong style="color: #ADD8E6;">CodeWars Solutions</strong>: [pholiveira-dev/code-wars](https://github.com/pholiveira-dev/code-wars)
+- **CodeWars Solutions**: [pholiveira-dev/code-wars](https://github.com/pholiveira-dev/code-wars)
   * Coleção de soluções para desafios de programação em JavaScript.
-  * Foco em otimização de algoritmos e diferentes abordagens para problemas complexos, como um estrategista da frota rebelde.
+  * Foco em otimização de algoritmos e diferentes abordagens para problemas complexos.
 
 ---
 
@@ -61,12 +51,12 @@
 
 ---
 
-### <span style="color: #FF0000;">Como falar comigo</span>
+### Como falar comigo
 
 <hr/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Star+Jedi&duration=3000&pause=1000&color=FFE81F&center=true&vCenter=true&width=500&lines=A+Força+está+comigo,+e+com+você!;Que+a+Força+esteja+com+nossos+projetos!;Venha+para+o+lado+luminoso+do+código!" alt="Typing SVG Star Wars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDAF&center=true&vCenter=true&width=500&lines=🚀+Pronto+para+inovar+e+construir+soluções!;💡+Conecte-se+e+vamos+criar+algo+incrível!" alt="Typing SVG" />
   
   <br/>
 
@@ -79,5 +69,6 @@
 
   <br/><br/>
 
-  <img src="https://media.giphy.com/media/l1KvR3gT7lKxJvMkw/giphy.gif" width="150" alt="GIF Star Wars - Mestre Yoda"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120" alt="Rocket Gif"/>
 </div>
+
