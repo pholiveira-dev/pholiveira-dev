@@ -1,6 +1,6 @@
-<h1 align="left">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
+<h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
-<p align="justify">
+<p align="center">
   Olá! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto.
 </p>
 
