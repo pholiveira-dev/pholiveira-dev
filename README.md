@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner Pedro Henrique" style="max-height: 200px; width: auto;" />
+  <img src="banner.png" alt="Banner Pedro Henrique" style="max-height: 150px; width: auto;" />
 </p>
 
 <h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
