@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Pedro Henrique" width="100%" />
+</p>
+
 <h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
 <p>
