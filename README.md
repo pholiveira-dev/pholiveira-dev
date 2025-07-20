@@ -19,7 +19,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 - 🎁 **Loja de Presentes (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo.  
   🔗 [Ver projeto](https://github.com/pholiveira-dev/balloon)
@@ -39,7 +39,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 🧠 Desafios de Código
+### Desafios de Código
 
 🧩 Meu campo de treino para aprimorar lógica e algoritmos:
 
@@ -49,7 +49,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dark&bg_color=000000&title_color=FFE81F&text_color=00BFFF&icon_color=FF6600&border_color=9933FF"/>
@@ -58,7 +58,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 📬 Como falar comigo
+### Como falar comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-037826186" target="_blank">
