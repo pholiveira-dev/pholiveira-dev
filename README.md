@@ -1,98 +1,76 @@
-<!-- Banner estilo “hyperspace jump” do Star Wars -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" />
-</div>
-
-<h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end em constante evolução</h1>
+<h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
 <p align="center">
-  💻 De enfermeiro para dev: unindo lógica, empatia e código para criar soluções reais.<br/>
-  🌌 Apaixonado por Django, Node.js e por tudo que envolve a cultura geek — de sabres de luz a linhas de código.
+  Olá! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto.
 </p>
 
 ---
 
-### 👨‍🚀 Sobre mim
+<h3 align="center">🧑‍💻 Sobre mim</h3>
 
-Minha trajetória começou na **Enfermagem**, onde desenvolvi habilidades como **empatia**, **responsabilidade** e **trabalho em equipe**. Hoje, aplico tudo isso no **universo da programação**, especialmente no **back-end**.
+<p align="center">
+  Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como <strong>senso de responsabilidade</strong>, <strong>comunicação clara</strong> e <strong>empatia</strong>, qualidades que agora aplico com excelência na área de tecnologia.<br/><br/>
 
-📚 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🧠 Autodidata curioso | Aprendo com propósito  
-⚙️ Explorando **Python/Django**, **Node.js**, **MySQL** e **boas práticas de código**
+  Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e dedico meu tempo ao aprofundamento em <strong>desenvolvimento back-end</strong>, com ênfase em Python/Django, Node.js e <strong>boas práticas de código</strong>.<br/>
+  Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motivado a entender o "porquê" de cada tecnologia e solução.
+</p>
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
   </a>
 </p>
 
 ---
 
-### 🌟 Projetos em Destaque
+<h3 align="center">📌 Projetos em destaque</h3>
 
-- 🎁 **Loja de Presentes (Django)**  
-  Aplicação **full-stack** com categorias dinâmicas, carrinho de compras e painel administrativo.  
-  🔗 [Ver projeto](https://github.com/pholiveira-dev/balloon)
+<p align="center">
+  🎁 <strong>Loja de Presentes (Django)</strong>: Aplicação <strong>full-stack</strong> com funcionalidades de categorias, produtos, pedidos e painel administrativo.  
+  <br/>🔗 <a href="https://github.com/pholiveira-dev/balloon">Ver projeto</a>
 
-- 🍽️ **Site de Receitas (Django)**  
-  CRUD completo, foco em boas práticas e front-end com Bootstrap.  
-  🔗 [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
+  <br/><br/>
 
----
-
-### 🧠 Desafios de Código
-
-> “O treino é nada. A vontade de se preparar é tudo.” – Darth Vader
-
-- 🥋 **CodeWars Solutions**  
-  Repositório com desafios resolvidos em JavaScript  
-  🔗 [Acessar](https://github.com/pholiveira-dev/code-wars)
+  🍽️ <strong>Site de Receitas (Django)</strong>: Projeto focado na prática de <strong>front-end</strong> e implementação de <strong>operações CRUD</strong> (Criação, Leitura, Atualização e Exclusão).  
+  <br/>🔗 <a href="https://github.com/pholiveira-dev/projeto-recipe">Ver projeto</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">🧠 Desafios de Código</h3>
 
-<div align="center">
+<p align="center">
+  Meu campo de treino para aprimorar lógica e algoritmos:
+
+  <br/><br/>
+
+  🔗 <strong><a href="https://github.com/pholiveira-dev/code-wars">CodeWars Solutions</a></strong>  
+  • Coleção de soluções para desafios de programação em JavaScript.  
+  • Foco em otimização de algoritmos e diferentes abordagens para problemas complexos.
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pholiveira-dev&show_icons=true&theme=dark&bg_color=000000&title_color=FFE81F&text_color=00BFFF&icon_color=FF6600&border_color=9933FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholiveira-dev&layout=compact&theme=dark&bg_color=000000&title_color=FFE81F&text_color=00BFFF&icon_color=FF6600&border_color=9933FF"/>
-</div>
+</p>
 
 ---
 
-### 📡 Conecte-se comigo
+<h3 align="center">📬 Como falar comigo</h3>
 
-<div align="center">
-  
-  <!-- Tipografia animada estilo terminal / Star Wars scroll -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=58FAF4&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Vamos+construir+algo+épico%3F;%F0%9F%8C%90+Conecte-se+comigo+e+leve+o+projeto+para+o+próximo+n%C3%ADvel!" alt="Typing SVG" />
-  
-  <br/><br/>
-
+<p align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-037826186" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:pedro.alves@escs.edu.br">
-    <img src="https://img.shields.io/badge/E-mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-
-  <br/><br/>
-
-  <!-- Gif divertido e mais limpo -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="Geek Working" />
-
-</div>
-
----
-
-### 🕹️ Última mensagem:
-
-<div align="center">
-
-> *"Seu foco determina a sua realidade."* – Qui-Gon Jinn  
-> *“Com grandes poderes, vêm grandes responsabilidades.”* – Tio Ben
-
-</div>
+</p>
