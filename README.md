@@ -10,7 +10,7 @@
 
 Minha jornada profissional na Enfermagem me trouxe habilidades essenciais como <strong>senso de responsabilidade</strong>, <strong>comunicação clara</strong> e <strong>empatia</strong>, qualidades que agora aplico com excelência na área de tecnologia.
 
-Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e dedico meu tempo ao aprofundamento em <strong>desenvolvimento back-end</strong>, com ênfase em Python/Django, Node.js e <strong>boas práticas de código</strong>.  
+Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e dedico meu tempo ao aprofundamento em <strong>desenvolvimento back-end</strong>, com ênfase em Node.js, Python/Django e <strong>boas práticas de código</strong>.  
 Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motivado a entender o "porquê" de cada tecnologia e solução.
 
 ---
@@ -19,7 +19,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,docker,mongodb,postgresql"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,python,django,git,github,mysql,docker,mongodb,postgresql,postman"/>
   </a>
 </p>
 
