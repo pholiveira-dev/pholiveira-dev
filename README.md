@@ -19,7 +19,7 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,vscode"/>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,python,django,git,github,mysql,docker,mongodb,postgresql"/>
   </a>
 </p>
 
