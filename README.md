@@ -34,7 +34,6 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
   🔗 [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
   
 - 📈 **Finanças Pessoais (Node.js)**: Aplicação **full-stack** para gerenciamento financeiro, com **API RESTful** e **visualização de dados** em gráficos.
-
   🔗 [Ver projeto](https://github.com/pholiveira-dev/financa)
 ---
 
