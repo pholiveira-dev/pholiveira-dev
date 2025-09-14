@@ -32,7 +32,9 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 - 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão).  
   🔗 [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
-
+  
+- 📈 **Finanças Pessoais (Node.js)**: Aplicação **full-stack** para gerenciamento financeiro, com **API RESTful** e **visualização de dados** em gráficos.
+  🔗 [Ver projeto]([https://github.com/pholiveira-dev/financas-pessoais](https://github.com/pholiveira-dev/financa))
 ---
 
 ### Desafios de Código
