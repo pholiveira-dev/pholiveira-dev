@@ -27,13 +27,16 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ### Projetos em destaque
 
-- 🎁 **Loja de Presentes (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo.  
+- 🎁 **Loja de Presentes (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo.
+  
   🔗 [Ver projeto](https://github.com/pholiveira-dev/balloon)
 
-- 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão).  
+- 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão).
+   
   🔗 [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
   
 - 📈 **Finanças Pessoais (Node.js)**: Aplicação **full-stack** para gerenciamento financeiro, com **API RESTful** e **visualização de dados** em gráficos.
+  
   🔗 [Ver projeto](https://github.com/pholiveira-dev/financa)
 ---
 
