@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Pedro Henrique | Desenvolvedor Back-end</h1>
 
 <p>
-  Olá! Minha paixão é transformar desafios em soluções tecnológicas eficientes, especialmente no universo Back-end com <strong>Node.js</strong> e <strong>Django</strong>. Do cuidado em saúde à criação de código, trago uma perspectiva única para cada projeto.
+  Interessado em desenvolver soluções de back-end com foco em Node.js. Meu projeto mais recente, o MoneyHub, me permitiu aprofundar em conceitos como autenticação de usuários, modelagem de banco de dados (com Knex.js) e visualização de dados.
 </p>
 
 ---
