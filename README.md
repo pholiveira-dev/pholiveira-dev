@@ -30,16 +30,20 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ### 1. MoneyHub (Aplicação Full-Stack de Gerenciamento Financeiro)
 
-Aplicação **Full-Stack** completa para controle financeiro, projetada com uma arquitetura de **API RESTful** robusta. O projeto se destaca pela **visualização de dados** interativa, utilizando gráficos para transformar dados brutos em **insights financeiros claros e acionáveis**.
+Aplicação **Full-Stack** robusta desenvolvida para oferecer um controle financeiro detalhado e intuitivo. O projeto se destaca pela arquitetura de **API RESTful** e pela eficiente **visualização de dados** em gráficos, transformando informações brutas em **insights financeiros claros e acionáveis**.
 
 * **Funcionalidades-Chave:** Gestão de receitas e despesas, Categorização, Relatórios detalhados e Gráficos de performance.
-* **Stack Principal:** Express.js, Node.js, React, Visualização de Dados.
+* **Back-end:** Node.js, Express.js e Knex.js.
+* **Front-end & Visualização:** JavaScript, Tailwind CSS e Chart.js.
 
 #### 🛠️ Tecnologias
-![Node.js Badge](LINK_DO_SEU_BADGE_NODEJS)
-![Express Badge](LINK_DO_SEU_BADGE_EXPRESS)
-![React Badge](LINK_DO_SEU_BADGE_REACT)
-![Gráfico Badge](LINK_DO_SEU_BADGE_VISUALIZACAO)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26C0D?style=for-the-badge&logo=knex.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 🔗 [Ver Projeto](https://github.com/pholiveira-dev/financa)
 
@@ -47,35 +51,42 @@ Aplicação **Full-Stack** completa para controle financeiro, projetada com uma 
 
 ### 2. Balloon (Sistema E-commerce/Catálogo)
 
-Um sistema **Full-Stack** desenvolvido para simular um catálogo de e-commerce robusto. O projeto enfatiza a estruturação de **back-end** para gerenciar o ciclo de vida de produtos e pedidos, incluindo um **painel administrativo** completo para controle de dados.
+Um sistema **Full-Stack** completo, simulando as operações essenciais de um e-commerce ou catálogo online. O projeto implementa um **back-end estruturado** em Django para gerenciar categorias, produtos e pedidos, contando com um **painel administrativo** para gestão centralizada.
 
-* **Funcionalidades-Chave:** Cadastro de Categorias e Produtos, Controle de Pedidos, Painel de Administração Centralizado.
-* **Stack Principal:** Django, Python, Banco de Dados Relacional.
+* **Funcionalidades-Chave:** Gerenciamento de Categorias e Produtos, Controle de Pedidos, Painel de Administração e Autenticação.
+* **Stack Principal:** Django, Python e MySQL.
 
 #### 🛠️ Tecnologias
-![Python Badge](LINK_DO_SEU_BADGE_PYTHON)
-![Django Badge](LINK_DO_SEU_BADGE_DJANGO)
-![HTML5 Badge](LINK_DO_SEU_BADGE_HTML5)
-![CSS3 Badge](LINK_DO_SEU_BADGE_CSS3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🔗 [Ver Projeto](https://github.com/pholiveira-dev/balloon)
 
 ***
 
-### 3. Site de Receitas (Prática de Front-End e CRUD)
+### 3. SisRepo (Sistema de Gerenciamento e Controle)
 
-Projeto essencial focado na aplicação prática de **Front-End** e no domínio das **operações CRUD** (**C**reate, **R**ead, **U**pdate, **D**elete). Demonstra proficiência na manipulação e apresentação de dados em uma interface limpa e voltada para o usuário.
+Aplicação robusta focada em **sistemas de controle e inventário**, que demonstra proficiência na construção de soluções de **gestão de dados** e fluxo de trabalho. O projeto prioriza a implementação de lógica de negócios complexa e a integridade de dados através de um banco de dados relacional.
 
-* **Funcionalidades-Chave:** Criação, Edição, Listagem e Exclusão de Itens (Receitas).
-* **Stack Principal:** Django, HTML/CSS, Princípios de Front-End.
+* **Funcionalidades-Chave:** Módulos de cadastro e consulta, Controle de acesso, Operações CRUD avançadas e Relatórios.
+* **Foco Técnico:** Lógica de negócios e persistência de dados.
 
 #### 🛠️ Tecnologias
-![Django Badge](LINK_DO_SEU_BADGE_DJANGO)
-![HTML5 Badge](LINK_DO_SEU_BADGE_HTML5)
-![CSS3 Badge](LINK_DO_SEU_BADGE_CSS3)
-![CRUD Badge](LINK_DO_SEU_BADGE_CRUD)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26C0D?style=for-the-badge&logo=knex.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🔗 [Ver Projeto](https://github.com/pholiveira-dev/projeto-recipe)
+🔗 [Link para o SisRepo](https://github.com/pholiveira-dev/sisrepo)
+
+***
 
 ***
 
