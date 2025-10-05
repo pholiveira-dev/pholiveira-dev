@@ -24,22 +24,60 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 </p>
 
 ---
+## 🚀 Projetos de Destaque (Portfólio)
 
-### Projetos em destaque
-
-- 📈 **MoneyHub (Express)**: Aplicação **full-stack** para gerenciamento financeiro, com **API RESTful** e **visualização de dados** em gráficos.
-  
-  🔗 [Ver projeto](https://github.com/pholiveira-dev/financa)
-
-- 🎁 **Balloon (Django)**: Aplicação **full-stack** com funcionalidades de categorias, produtos, pedidos e painel administrativo.
-  
-  🔗 [Ver projeto](https://github.com/pholiveira-dev/balloon)
-
-- 🍽️ **Site de Receitas (Django)**: Projeto focado na prática de **front-end** e implementação de **operações CRUD** (Criação, Leitura, Atualização e Exclusão).
-   
-  🔗 [Ver projeto](https://github.com/pholiveira-dev/projeto-recipe)
-  
 ---
+
+### 1. MoneyHub (Aplicação Full-Stack de Gerenciamento Financeiro)
+
+Aplicação **Full-Stack** completa para controle financeiro, projetada com uma arquitetura de **API RESTful** robusta. O projeto se destaca pela **visualização de dados** interativa, utilizando gráficos para transformar dados brutos em **insights financeiros claros e acionáveis**.
+
+* **Funcionalidades-Chave:** Gestão de receitas e despesas, Categorização, Relatórios detalhados e Gráficos de performance.
+* **Stack Principal:** Express.js, Node.js, React, Visualização de Dados.
+
+#### 🛠️ Tecnologias
+![Node.js Badge](LINK_DO_SEU_BADGE_NODEJS)
+![Express Badge](LINK_DO_SEU_BADGE_EXPRESS)
+![React Badge](LINK_DO_SEU_BADGE_REACT)
+![Gráfico Badge](LINK_DO_SEU_BADGE_VISUALIZACAO)
+
+🔗 [Ver Projeto](https://github.com/pholiveira-dev/financa)
+
+***
+
+### 2. Balloon (Sistema E-commerce/Catálogo)
+
+Um sistema **Full-Stack** desenvolvido para simular um catálogo de e-commerce robusto. O projeto enfatiza a estruturação de **back-end** para gerenciar o ciclo de vida de produtos e pedidos, incluindo um **painel administrativo** completo para controle de dados.
+
+* **Funcionalidades-Chave:** Cadastro de Categorias e Produtos, Controle de Pedidos, Painel de Administração Centralizado.
+* **Stack Principal:** Django, Python, Banco de Dados Relacional.
+
+#### 🛠️ Tecnologias
+![Python Badge](LINK_DO_SEU_BADGE_PYTHON)
+![Django Badge](LINK_DO_SEU_BADGE_DJANGO)
+![HTML5 Badge](LINK_DO_SEU_BADGE_HTML5)
+![CSS3 Badge](LINK_DO_SEU_BADGE_CSS3)
+
+🔗 [Ver Projeto](https://github.com/pholiveira-dev/balloon)
+
+***
+
+### 3. Site de Receitas (Prática de Front-End e CRUD)
+
+Projeto essencial focado na aplicação prática de **Front-End** e no domínio das **operações CRUD** (**C**reate, **R**ead, **U**pdate, **D**elete). Demonstra proficiência na manipulação e apresentação de dados em uma interface limpa e voltada para o usuário.
+
+* **Funcionalidades-Chave:** Criação, Edição, Listagem e Exclusão de Itens (Receitas).
+* **Stack Principal:** Django, HTML/CSS, Princípios de Front-End.
+
+#### 🛠️ Tecnologias
+![Django Badge](LINK_DO_SEU_BADGE_DJANGO)
+![HTML5 Badge](LINK_DO_SEU_BADGE_HTML5)
+![CSS3 Badge](LINK_DO_SEU_BADGE_CSS3)
+![CRUD Badge](LINK_DO_SEU_BADGE_CRUD)
+
+🔗 [Ver Projeto](https://github.com/pholiveira-dev/projeto-recipe)
+
+***
 
 ### Desafios de Código
 
