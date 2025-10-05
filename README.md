@@ -32,7 +32,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 Aplicação robusta focada em **sistemas de controle e inventário**, que demonstra proficiência na construção de soluções de **gestão de dados** e fluxo de trabalho. O projeto prioriza a implementação de lógica de negócios complexa e a integridade de dados através de um banco de dados relacional.
 <br>
-**Stack:** **Python**, **Django**, **PostgreSQL**.
+**Stack:** **JavaScript**, **Node.js**, **PostgreSQL**.
 
 * **Funcionalidades-Chave:** Módulos de cadastro e consulta, Controle de acesso, Operações CRUD avançadas e Relatórios.
 * **Foco Técnico:** Lógica de negócios e persistência de dados.
