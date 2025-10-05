@@ -28,7 +28,28 @@ Sou um <strong>aprendiz contínuo</strong> e <strong>autodidata</strong>, motiva
 
 ---
 
-### 1. MoneyHub (Aplicação Full-Stack de Gerenciamento Financeiro)
+### 1. SisRepo (Sistema de Gerenciamento e Controle)
+
+Aplicação robusta focada em **sistemas de controle e inventário**, que demonstra proficiência na construção de soluções de **gestão de dados** e fluxo de trabalho. O projeto prioriza a implementação de lógica de negócios complexa e a integridade de dados através de um banco de dados relacional.
+
+* **Funcionalidades-Chave:** Módulos de cadastro e consulta, Controle de acesso, Operações CRUD avançadas e Relatórios.
+* **Foco Técnico:** Lógica de negócios e persistência de dados.
+
+#### 🛠️ Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26C0D?style=for-the-badge&logo=knex.js&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+🔗 [Link para o SisRepo](https://github.com/pholiveira-dev/sisrepo)
+
+***
+
+### 2. MoneyHub (Aplicação Full-Stack de Gerenciamento Financeiro)
 
 Aplicação **Full-Stack** robusta desenvolvida para oferecer um controle financeiro detalhado e intuitivo. O projeto se destaca pela arquitetura de **API RESTful** e pela eficiente **visualização de dados** em gráficos, transformando informações brutas em **insights financeiros claros e acionáveis**.
 
@@ -49,7 +70,7 @@ Aplicação **Full-Stack** robusta desenvolvida para oferecer um controle financ
 
 ***
 
-### 2. Balloon (Sistema E-commerce/Catálogo)
+### 3. Balloon (Sistema E-commerce/Catálogo)
 
 Um sistema **Full-Stack** completo, simulando as operações essenciais de um e-commerce ou catálogo online. O projeto implementa um **back-end estruturado** em Django para gerenciar categorias, produtos e pedidos, contando com um **painel administrativo** para gestão centralizada.
 
@@ -64,27 +85,6 @@ Um sistema **Full-Stack** completo, simulando as operações essenciais de um e-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🔗 [Ver Projeto](https://github.com/pholiveira-dev/balloon)
-
-***
-
-### 3. SisRepo (Sistema de Gerenciamento e Controle)
-
-Aplicação robusta focada em **sistemas de controle e inventário**, que demonstra proficiência na construção de soluções de **gestão de dados** e fluxo de trabalho. O projeto prioriza a implementação de lógica de negócios complexa e a integridade de dados através de um banco de dados relacional.
-
-* **Funcionalidades-Chave:** Módulos de cadastro e consulta, Controle de acesso, Operações CRUD avançadas e Relatórios.
-* **Foco Técnico:** Lógica de negócios e persistência de dados.
-
-#### 🛠️ Tecnologias
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Knex.js](https://img.shields.io/badge/Knex.js-D26C0D?style=for-the-badge&logo=knex.js&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-🔗 [Link para o SisRepo](https://github.com/pholiveira-dev/sisrepo)
 
 ***
 
