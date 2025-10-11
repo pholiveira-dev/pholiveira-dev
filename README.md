@@ -28,9 +28,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ---
 
-### 1. SisRepo (Sistema de Gerenciamento e Controle)
-
-1. SisRepo | API para Gestão de Reposições Acadêmicas
+### 1. SisRepo | API para Gestão de Reposições Acadêmicas
 
 Uma API RESTful robusta projetada para resolver o desafio logístico do agendamento de reposições acadêmicas. A plataforma foi construída com foco em escalabilidade, segurança e confiabilidade, utilizando um banco de dados relacional para garantir a integridade transacional (ACID) entre alunos, horários e agendamentos.
 
