@@ -32,18 +32,21 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 Uma API RESTful robusta projetada para resolver o desafio logístico do agendamento de reposições acadêmicas. A plataforma foi construída com foco em escalabilidade, segurança e confiabilidade, utilizando um banco de dados relacional para garantir a integridade transacional (ACID) entre alunos, horários e agendamentos.
 
+**Stack:**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knexdotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-Stack: Node.js, Express, PostgreSQL, Knex.js, Jest, JWT.
+**Destaques Técnicos:**
 
-    Destaques Técnicos:
-
-        Backend Robusto: Arquitetura em Node.js com Express para um gerenciamento eficiente de rotas e middlewares.
-
-        Persistência de Dados: Uso de PostgreSQL para produção, garantindo confiabilidade, e Knex.js para consultas SQL seguras e portáveis.
-
-        Segurança: Autenticação stateless implementada com JSON Web Tokens (JWT) e controle de acesso (RBAC) via middlewares.
-
-        Qualidade de Código: Cobertura de testes com Jest para validar a lógica de negócios e os endpoints da API.
+* **Backend Robusto:** Arquitetura em Node.js com Express para um gerenciamento eficiente de rotas e *middlewares*.
+* **Persistência de Dados:** Uso de PostgreSQL para produção, garantindo confiabilidade, e Knex.js para consultas SQL seguras e portáveis.
+* **Segurança:** Autenticação *stateless* implementada com JSON Web Tokens (JWT) e controle de acesso (RBAC) via *middlewares*.
+* **Qualidade de Código:** Cobertura de testes com Jest para validar a lógica de negócios e os *endpoints* da API.
         
 🔗 [Link para o SisRepo](https://github.com/pholiveira-dev/sisrepo)
 
