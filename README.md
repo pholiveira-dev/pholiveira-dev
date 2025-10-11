@@ -30,13 +30,23 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** e dedico meu tempo ao 
 
 ### 1. SisRepo (Sistema de Gerenciamento e Controle)
 
-Aplicação robusta focada em **sistemas de controle e inventário**, que demonstra proficiência na construção de soluções de **gestão de dados** e fluxo de trabalho. O projeto prioriza a implementação de lógica de negócios complexa e a integridade de dados através de um banco de dados relacional.
-<br>
-**Stack:** **JavaScript**, **Node.js**, **PostgreSQL**.
+1. SisRepo | API para Gestão de Reposições Acadêmicas
 
-* **Funcionalidades-Chave:** Módulos de cadastro e consulta, Controle de acesso, Operações CRUD avançadas e Relatórios.
-* **Foco Técnico:** Lógica de negócios e persistência de dados.
+Uma API RESTful robusta projetada para resolver o desafio logístico do agendamento de reposições acadêmicas. A plataforma foi construída com foco em escalabilidade, segurança e confiabilidade, utilizando um banco de dados relacional para garantir a integridade transacional (ACID) entre alunos, horários e agendamentos.
 
+
+Stack: Node.js, Express, PostgreSQL, Knex.js, Jest, JWT.
+
+    Destaques Técnicos:
+
+        Backend Robusto: Arquitetura em Node.js com Express para um gerenciamento eficiente de rotas e middlewares.
+
+        Persistência de Dados: Uso de PostgreSQL para produção, garantindo confiabilidade, e Knex.js para consultas SQL seguras e portáveis.
+
+        Segurança: Autenticação stateless implementada com JSON Web Tokens (JWT) e controle de acesso (RBAC) via middlewares.
+
+        Qualidade de Código: Cobertura de testes com Jest para validar a lógica de negócios e os endpoints da API.
+        
 🔗 [Link para o SisRepo](https://github.com/pholiveira-dev/sisrepo)
 
 ***
